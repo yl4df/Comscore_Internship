@@ -1,0 +1,2 @@
+# Demographic Data Clustering (Unsupervised Learning)
+Currently, ComScore’s total digital data is partitioned across a variety of classifiers. Often, entities within these classifications vary heavily in terms of their demographic breakdowns. In the interest of further understanding similarities between our data, we employed a machine learning clustering algorithm, with hopes of finding useful insight for future marketing analytics; specifically, for clients with a product and target demographic, looking to place their ads in optimal locations across the web.
